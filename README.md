@@ -1,0 +1,1 @@
+# ASP.NET Core WebApi template with Entity Framework Core set up to connect to MSSQL Server. For quick testing some code
